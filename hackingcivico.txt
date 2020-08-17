@@ -1,0 +1,110 @@
+
+Ciudadanaia activa
+Hacking
+¿Que problemas sociales hay en tu cominidad?
+
+Tecnologia: conjunto de conocimientos técnicos ,cientificamente ordenados que nos permiten diseñar y crear bienes y servicios
+
+Civismo: pautias minimas de comportamiento social que nos permiten convivir en colectividad y armonia
+
+Tecnología Civica = Ciudadania + tecnologia + impacto
+ Es un proceso o forma de trabajar
+1. Promover la apertura del gobierno
+ 	¿Como ayudamos a los gobiernos a ser mas abiertos y colaborar con la tecnologia?
+2. Para la creacion de comunidades
+
+Ejemplos: 
+Herramientas de participacion ciudadana
+	decide.sanpedro.gob.mx
+	consulproject.org
+Portales Datos Abiertos
+datos.gob.mx
+datamx.io
+
+Observacion actividades de gobierno
+congresogto.gob.mx
+datamexico.org
+
+Maperar o levantar reportes
+mapaton.org
+mexico.frenalacurva.net
+
+
+Tenologia civica no solo es software
+the Things networks IoT
+
+¿Quien es un hacker civico? Cualquier persona que este dispuesta a colaborar con otros para resolver los retos mas relevantes de cominidades, ciudades, estados o  pais.
+
+Objetivos de hacking civico
+Contribuye a la economia nacional
+Nos permite estar mas informados
+Empoderas a los ciudadanos
+
+***
+Identificar problemas locales
+definir la propuestas a estos problemas
+Incluir a diferentes actores en la solución
+
+OPEN SOURCE
+Gobierno Open Source
+
+GOBIERNO ABIERTO
+Nueva forma de gobierno que permite saber con mayor presicion que estan haciendo las autoridades y permite la participacion ciudadana
+	transparencia
+	rendicion de cuentas
+	Participacion ciudadana
+	Inovacion
+
+Beneficios GA: Economicos, politicos y sociales.
+
+Open Gov PArtnership:4o plan de acción
+
+Transparencia (saber)
+Participacion (Tomar parte)
+Colaboracion (contribuir)
+
+INOVACION ABIERTA
+uso intensivo de conocimiento interno y externo con el objetivo de acelerar la inovacion interna
+	Mejora de servicios
+	Gobierno Electronico
+
+Problemas y posibles soluciones
+Factibilidad técnica y Legal
+Medicion del impacto(medir todo)
+
+
+Caracteristicas Datos Abiertos
+Reuso y distribucion : disponibles como un todo y 
+Disponibilidad y acceso:
+Participacion universal
+
+Accesibles, inclusivos y utilizables por todos
+Calidad datos e interoperabilidad
+Permanencia en el tiempo
+
+Caracteristicas Legales
+Disponibles de manera publica y gratuita
+No discriminatorios: accesibles sin reestricciones de acceso
+Licencia libre de uso: reutilizacion y distribucion
+Permanentes en el tiempo
+Caracteristicas Tecnicas
+formatos abiertos
+primacia : mayor granuralidad posible
+Actualizacion: periodica y oportuna
+Completo se integrales: descripcion , diccionario y metadatos
+
+Probeer varios datos para contar con un contexto
+
+Tipo de Datos
+Estructurados CSV, JSON , XML
+
+
+Datos espaciales 
+KML
+SHP
+GeoJson
+
+
+GITHUB
+
+
